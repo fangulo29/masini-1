@@ -1,0 +1,6 @@
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\bin\Debug\Problema1.exe.config
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\obj\Debug\Problema1.csprojResolveAssemblyReference.cache
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\bin\Debug\Problema1.exe
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\bin\Debug\Problema1.pdb
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\obj\Debug\Problema1.exe
+D:\an4\_SoftwareEngeneering\cars\Problema1\Problema1\obj\Debug\Problema1.pdb
