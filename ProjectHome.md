@@ -1,0 +1,1 @@
+folosirea pattern-urilor abstract factory, object pool si singleton
